@@ -1,7 +1,7 @@
 library ieee;
 use ieee.std_logic_1164.ALL;
 
-entity OR_GATE
+entity OR_GATE is
     Port(
         A : in std_logic;
         B : in std_logic;

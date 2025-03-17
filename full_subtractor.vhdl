@@ -1,7 +1,7 @@
 library ieee;
 use library.std_logic_1164.all;
 
-entity fullSub 
+entity fullSub is
     Port(
         A:  in std_logic;
         B:  in std_logic;

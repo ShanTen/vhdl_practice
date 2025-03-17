@@ -1,7 +1,7 @@
 library ieee;
 use ieee.std_logic_1164;
 
-entity XOR_gate
+entity XOR_gate is 
     Port(
         A : in  std_logic;
         B : in  std_logic;
