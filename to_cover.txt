@@ -1,8 +1,8 @@
 Full-Adder (Behavioral) -- done
 Full-Subtractor (DataFlow)  -- done
 
-Multiplexer (Behavioral)
-DeMultiplexer (DataFlow)
+Multiplexer (Behavioral) -- done
+DeMultiplexer (DataFlow)  -- done
 
 Encoder (8x3) (Structural)
 Decoder (8x3) (Structural)
